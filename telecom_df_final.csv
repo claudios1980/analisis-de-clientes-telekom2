@@ -10,7 +10,7 @@ customerID,Churn,Contract,PaperlessBilling,PaymentMethod,Charges.Monthly,Charges
 0015-uocoj,False,month-to-month,True,electronic check,48.2,340.35,1.606666666666667
 0016-qljis,False,two year,True,mailed check,90.45,5957.9,3.015
 0017-dinoc,False,two year,False,credit card (automatic),45.2,2460.55,1.5066666666666668
-0017-iudmw,False,two year,True,credit card (automatic),116.8,8456.75,3.893333333333333
+0017-iudmw,False,two year,True,credit card (automatic) ,116.8,8456.75,3.893333333333333
 0018-nyrou,False,month-to-month,True,electronic check,68.95,351.5,2.2983333333333333
 0019-efaep,False,two year,True,bank transfer (automatic),101.3,7261.25,3.3766666666666665
 0019-gfntw,False,two year,False,bank transfer (automatic),45.05,2560.1,1.5016666666666665
